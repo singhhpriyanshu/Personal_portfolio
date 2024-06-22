@@ -44,7 +44,7 @@ const Hero = () => {
             initial= "hidden"
             animate="visible"
             className=" rounded-full font-semibold bg-orange-400 text-white m-8 p-3" >
-              <a href="https://drive.google.com/file/d/1fzJeRb2SLyxJ9oU7hDaMaOq6Xv3BMq0j/view?usp=sharing">
+              <a href="https://drive.google.com/file/d/1TfWEdEeemMfz9WuJA6QgEi9fpYmJI9Ur/view">
                 CV/Resume
               </a>
             </motion.button>
